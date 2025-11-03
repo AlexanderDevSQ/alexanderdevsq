@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there! / ¡Hola!
 
-<!--
-**AlexanderDevSQ/alexanderdevsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alexander Salgado Rojo**, a **Full Stack Developer**, **Python Programmer**, and **Junior Game Developer**.  
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me / Sobre mí
+
+- 💻 Passionate about building web applications and creative digital experiences.  
+- 🐍 Experienced in **Python**, **TypeScript**, **C#**, **JavaScript**, and backend development.  
+- 🎮 Love developing **games** and exploring new technologies in interactive design, although I'm a beginner in this field.  
+- 🌱 Always learning and improving my skills in modern frameworks and tools.  
+- 🤝 Open to collaborations, projects, and new challenges.  
+
+---
+
+## 🧰 Tech Stack / Tecnologías
+
+**Languages:** Python, JavaScript, HTML, CSS, TypeScript, SQL, etc...  
+**Frameworks:** React, Angular, Ionic, Ajax
+**Game Development:** Godot
+**Tools:** Git, VS Code, Windows, Visual Studio, PyCharm, Blender (optional)
+
+---
+
+## 📫 Contact Me / Contáctame
+
+- 📧 **Email:** alexander.sal.roj@gmail.com
+- 🌐 **Portfolio:** [https://portfolio-orcin-theta-98.vercel.app/](https://portfolio-orcin-theta-98.vercel.app/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/alexander-salgado-rojo](https://www.linkedin.com/in/alexander-salgado-rojo)
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
+*¡Gracias por visitar mi perfil!*
