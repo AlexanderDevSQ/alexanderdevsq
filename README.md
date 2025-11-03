@@ -34,4 +34,3 @@
  ---
 
  ⭐️ *Thanks for visiting my profile!*  
-* ¡ Gracias por visitar
