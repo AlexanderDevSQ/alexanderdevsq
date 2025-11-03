@@ -17,10 +17,10 @@ Welcome to my GitHub profile! 🚀
 
 ## 🧰 Tech Stack / Tecnologías
 
-**Languages:** Python, JavaScript, HTML, CSS, TypeScript, SQL, etc...  
-**Frameworks:** React, Angular, Ionic, Ajax
-**Game Development:** Godot
-**Tools:** Git, VS Code, Windows, Visual Studio, PyCharm, Blender (optional)
+- **Languages:** Python, JavaScript, HTML, CSS, TypeScript, SQL, etc...  
+- **Frameworks:** React, Angular, Ionic, Ajax
+- **Game Development:** Godot
+- **Tools:** Git, VS Code, Windows, Visual Studio, PyCharm, Blender (optional)
 
 ---
 
