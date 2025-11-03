@@ -28,7 +28,7 @@
  ## 📫 Contact Me / Contáctame
 
  - 📧 **Email:** alexander.sal.roj@gmail.com
- - 🌐 **Portfolio:** [https://portfolio-orcin-theta-98.vercel.app/] 
+ - 🌐 **Portfolio:** [https://portfolio-orcin-theta-98.vercel.app/](https://portfolio-orcin-theta-98.vercel.app/)
  - 💼 **LinkedIn:** [https://www.linkedin.com/in/alexander-salgado-rojo]
 
  ---
